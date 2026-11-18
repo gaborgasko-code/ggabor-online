@@ -8,6 +8,7 @@ The bare domain https://ggabor.online, served by GitHub Pages from this reposito
 | `/theteaparty/` | Landing page of the game The Tea Party: Break with the Crown (hand-written, self-contained) |
 | `/landfall/`, `/landfall/play/` | The old addresses (the game was called Landfall until 13 Nov 2026): they only forward |
 | `/theteaparty/play/` | The game itself: a Godot web export |
+| `/portfolio/media/` | Demo videos linked from Gabor's cover letter (one short clip per project) |
 | `/theteaparty/licences.txt` | Godot Engine (MIT), Fraunces and Space Grotesk (OFL) licences |
 
 Subdomains (`cv`, `planificador`, `cuidapp`, `pattogatott-kukorica`) live in their own repositories.
